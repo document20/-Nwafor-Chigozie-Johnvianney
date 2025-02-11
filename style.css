@@ -60,7 +60,7 @@ ul li a:hover {
 .writeup {
     flex: 1 1 400px;
     padding: 2rem;
-    border: solid;
+    border: solid hsl(75, 94%, 57%) ;
     border-radius: 2rem;
     background: rgba(255, 255, 255, 0.1);
 }
